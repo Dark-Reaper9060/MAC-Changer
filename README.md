@@ -8,7 +8,7 @@ Use this Script to change your MAC Address. Have fun but do not do anything ille
 
  INSTRUCTIONS FOR USAGE
 
-  #1----->  to install this script --> just copy the code and run (git clone https://github.com/Dark-Reaper9060/Mac-Changer.git) 
+  #1----->  to install this script --> just copy the code and run (git clone https://github.com/Dark-Reaper9060/MAC-Changer.git) 
                then hit enter
 
 
@@ -20,5 +20,5 @@ Use this Script to change your MAC Address. Have fun but do not do anything ille
         
   
   
-  <<<<<<<<<<<<<<<<<<<THANKYOU FOR CHOOSING MY SCRIPT FOR YOUR USAGE>>>>>>>>>>>>>>>>>>>
+  <<<<<<<<<<<<<<<<<<< THANKYOU FOR CHOOSING MY SCRIPT FOR YOUR USAGE >>>>>>>>>>>>>>>>>>>
 
